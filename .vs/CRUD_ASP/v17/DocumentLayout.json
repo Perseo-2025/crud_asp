@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5364391E-FC18-4581-8CD4-44577AD83563}|CRUD_ASP\\CRUD_ASP.csproj|c:\\users\\sopor\\documentos\\crud_asp\\crud_asp\\views\\db\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5364391E-FC18-4581-8CD4-44577AD83563}|CRUD_ASP\\CRUD_ASP.csproj|solutionrelative:crud_asp\\views\\db\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364391E-FC18-4581-8CD4-44577AD83563}|CRUD_ASP\\CRUD_ASP.csproj|C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\crud_asp\\views\\db\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5364391E-FC18-4581-8CD4-44577AD83563}|CRUD_ASP\\CRUD_ASP.csproj|solutionrelative:crud_asp\\views\\db\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5364391E-FC18-4581-8CD4-44577AD83563}|CRUD_ASP\\CRUD_ASP.csproj|C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\crud_asp\\views\\db\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5364391E-FC18-4581-8CD4-44577AD83563}|CRUD_ASP\\CRUD_ASP.csproj|solutionrelative:crud_asp\\views\\db\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\CRUD_ASP\\Views\\DB\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_ASP\\Views\\DB\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\CRUD_ASP\\Views\\DB\\Index.cshtml",
+              "RelativeToolTip": "CRUD_ASP\\Views\\DB\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T04:10:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\CRUD_ASP\\Views\\DB\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_ASP\\Views\\DB\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\CRUD_ASP\\Views\\DB\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_ASP\\Views\\DB\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T04:09:51.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\CRUD_ASP\\Views\\DB\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD_ASP\\Views\\DB\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sopor\\Documentos\\CRUD_ASP\\CRUD_ASP\\Views\\DB\\Details.cshtml",
+              "RelativeToolTip": "CRUD_ASP\\Views\\DB\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T04:09:46.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
